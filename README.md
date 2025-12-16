@@ -11,7 +11,6 @@ Repo: https://github.com/HillZhang2004/lyrics-genre-classifier
 
 **2) Airbnb price modeling (R), live report**  
 Real-world tabular cleaning + feature engineering + regression + lasso/ridge, shipped as a reproducible report.  
-Live report: https://hillzhang2004.github.io/airbnb-price-modeling/Report.html  
 Repo: https://github.com/HillZhang2004/airbnb-price-modeling
 
 **3) Empirical Bayes CATE synthesis (RCT + observational)**  
@@ -28,7 +27,6 @@ Repo: https://github.com/HillZhang2004/startup-search-engine-public
 
 ## Quick links
 
-- Resume (PDF): [Hill_Zhang_Resume.pdf](assets/Hill_Zhang_Resume.pdf)
 - Email: hillzhang.ai@gmail.com
 - LinkedIn: https://www.linkedin.com/in/hill-zhang-data
 
