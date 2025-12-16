@@ -2,7 +2,7 @@
 
 I build **evaluation-first ML and data projects** end to end, from cleaning and modeling to diagnostics, reports, and demos.
 
-**Currently:** B.A. candidate at **Claremont McKenna College** (Data Science + Mathematics, minor in Financial Economics), graduating **May 2027**.
+**Currently: Junior at **Claremont McKenna College** (Data Science + Mathematics, minor in Financial Economics), graduating **May 2027**.
 
 I like projects where **metrics, reproducibility, and clear communication** matter. I’ve shipped work across ML prototyping, reproducible research pipelines, and product-facing analysis.
 
