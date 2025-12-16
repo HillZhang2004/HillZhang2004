@@ -2,7 +2,7 @@
 
 I build **evaluation-first ML and data projects** end to end, from cleaning and modeling to diagnostics, reports, and demos.  
 Junior at **Claremont McKenna College** (Data Science + Mathematics, minor in Financial Economics), graduating **May 2027**.  
-Seeking **Data Science / ML / Analytics internships** where I can own a pipeline and communicate results clearly.
+Seeking **Data Science / ML / Analytics** internships where I can own a pipeline and communicate results clearly.
 
 ## Featured projects
 
@@ -10,8 +10,8 @@ Seeking **Data Science / ML / Analytics internships** where I can own a pipeline
 **What it shows:** uncertainty-aware estimation, diagnostics, reproducible reporting (no participant-level data in repo).  
 Repo: https://github.com/HillZhang2004/whi-cate-combined-estimators
 
-### Airbnb pricing in European cities (R), live report
-**What it shows:** real-world tabular cleaning, feature engineering, regression, lasso/ridge, and a reproducible report.
+### Airbnb pricing in European cities (R) — live report
+**What it shows:** real-world tabular cleaning, feature engineering, regression, lasso/ridge, and a reproducible report. 
 Repo: https://github.com/HillZhang2004/airbnb-price-modeling
 
 ### Lyrics genre classifier (TF-IDF vs MiniLM)
@@ -27,10 +27,12 @@ Repo: https://github.com/HillZhang2004/tag-based-music-recommender
 Repo: https://github.com/HillZhang2004/startup-search-engine-public
 
 ## Tech
-- **Languages:** Python, R, SQL  
-- **ML:** scikit-learn, PyTorch  
-- **Build:** Git, Linux, Jupyter, Quarto/RMarkdown, SLURM, Streamlit  
+
+**Languages:** Python, R, SQL  
+**ML:** scikit-learn, PyTorch  
+**Build:** Git, Linux, Jupyter, Quarto/RMarkdown, SLURM, Streamlit
 
 ## Links
-- Email: hillzhang.ai@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/hill-zhang-data
+
+Email: hillzhang.ai@gmail.com  
+LinkedIn: https://www.linkedin.com/in/hill-zhang-data
