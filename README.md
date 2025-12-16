@@ -1,36 +1,42 @@
 # Hi, I’m Hill Zhang 👋
 
-I build evaluation-first ML and data projects end to end: clean data → model → validate → ship a clear report or demo.  
-Seeking Data Science, ML, or Analytics internships.
+I build **evaluation-first ML and data projects** end to end, from cleaning and modeling to diagnostics, reports, and demos.
+
+**Currently:** B.A. candidate at **Claremont McKenna College** (Data Science + Mathematics, minor in Financial Economics), graduating **May 2027**.
+
+I like projects where **metrics, reproducibility, and clear communication** matter. I’ve shipped work across ML prototyping, reproducible research pipelines, and product-facing analysis.
+
+I’m looking for **Data Science / ML / Analytics internships** where I can own a pipeline and communicate results clearly.
 
 ## Featured projects
 
-**1) Lyrics genre classifier (lyrics-only NLP)**  
-TF-IDF vs MiniLM embeddings with held-out evaluation (test accuracy 0.61, macro-F1 0.47).  
-Repo: https://github.com/HillZhang2004/lyrics-genre-classifier
-
-**2) Airbnb price modeling (R), live report**  
-Real-world tabular cleaning + feature engineering + regression + lasso/ridge, shipped as a reproducible report.  
-Repo: https://github.com/HillZhang2004/airbnb-price-modeling
-
-**3) Empirical Bayes CATE synthesis (RCT + observational)**  
-Uncertainty-aware combination rules with reproducible reporting, no participant-level data included.  
+### Empirical Bayes CATE synthesis (RCT + observational)
+**What it shows:** uncertainty-aware estimation, diagnostics, reproducible reporting (no participant-level data in repo).  
 Repo: https://github.com/HillZhang2004/whi-cate-combined-estimators
 
-**4) Tag-based music recommender**  
-Supervised learning from Spotify + Last.fm tags with a demo-oriented workflow.  
+### Airbnb pricing in European cities (R) — live report
+**What it shows:** real-world tabular cleaning, feature engineering, regression, lasso/ridge, and a reproducible report.  
+Repo: https://github.com/HillZhang2004/airbnb-price-modeling
+
+### Lyrics genre classifier (TF-IDF vs MiniLM)
+**What it shows:** strong baselines, embedding comparisons, evaluation with macro-F1 and confusion matrices.  
+Repo: https://github.com/HillZhang2004/lyrics-genre-classifier
+
+### Tag-based music recommender (Spotify + Last.fm)
+**What it shows:** practical supervised ML with a runnable training pipeline and a demo workflow.  
 Repo: https://github.com/HillZhang2004/tag-based-music-recommender
 
-**5) Startup search engine (CLI)**  
-Fast lookup + graph exploration (DFS) behind a clean command-line interface.  
+### Startup search engine (CLI)
+**What it shows:** data structures + graph exploration in a clean CLI tool.  
 Repo: https://github.com/HillZhang2004/startup-search-engine-public
-
-## Quick links
-
-- Email: hillzhang.ai@gmail.com
-- LinkedIn: https://www.linkedin.com/in/hill-zhang-data
 
 ## Tech
 
-Python, R, SQL.  
-pandas, scikit-learn, tidyverse, caret, Quarto or RMarkdown, experiment design and evaluation.
+**Languages:** Python, R, SQL  
+**ML:** scikit-learn, PyTorch  
+**Build:** Git, Linux, Jupyter, Quarto/RMarkdown, SLURM, Streamlit
+
+## Links
+
+- Email: hillzhang.ai@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/hill-zhang-data  
