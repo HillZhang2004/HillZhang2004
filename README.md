@@ -1,12 +1,8 @@
 # Hi, I’m Hill Zhang 👋
 
-I build **evaluation-first ML and data projects** end to end, from cleaning and modeling to diagnostics, reports, and demos.
-
-**Currently:** Junior at **Claremont McKenna College** (Data Science + Mathematics, minor in Financial Economics), graduating **May 2027**.
-
-I like projects where **metrics, reproducibility, and clear communication** matter. I’ve shipped work across ML prototyping, reproducible research pipelines, and product-facing analysis.
-
-I’m looking for **Data Science / ML / Analytics internships** where I can own a pipeline and communicate results clearly.
+I build **evaluation-first ML and data projects** end to end, from cleaning and modeling to diagnostics, reports, and demos.  
+Junior at **Claremont McKenna College** (Data Science + Mathematics, minor in Financial Economics), graduating **May 2027**.  
+Seeking **Data Science / ML / Analytics internships** where I can own a pipeline and communicate results clearly.
 
 ## Featured projects
 
